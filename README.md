@@ -1,4 +1,7 @@
-# Projeto GitHub VS Code Demo Tarde
+# Exercícios de HTML da TransformaTech Tarde
 
-## Olá mundo
+## Lista de exercícios
 
+ - Exercício 1
+ - Exercício 2
+ - Exercício 3
